@@ -36,7 +36,7 @@
     min-width: 60px;
   }
   
-  /* Guests, rooms, and bathrooms information */
+  /* Guests, rooms, and bathrooms */
   .places .information {
     align-items: center;
     border-top: 1px solid #ddd;
@@ -55,12 +55,12 @@
     width: 100px;
   }
   
-  /* Padding owner*/
+  /* Padding owner */
   .places .user {
     margin: 20px auto 20px auto;
   }
-  
-  /* Header 1 */
+
+  /* Header 1*/
   .places h1 {
     font-size: 30px;
     font-weight: bold;
@@ -68,7 +68,7 @@
     width: 100%;
   }
   
-  /* Header 2 */
+  /* Header 2*/
   .places h2 {
     font-size: 30px;
     font-weight: bold;
